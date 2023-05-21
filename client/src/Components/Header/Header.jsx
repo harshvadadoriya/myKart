@@ -77,7 +77,7 @@ const CustomButtonWrapper = styled(Box)`
 `;
 
 const Header = () => {
-	const ShopzifyLogo = '/public/Logos/shopzify-logo.png';
+	const ShopzifyLogo = '/Logos/shopzify-logo.png';
 	return (
 		<StyledHeader>
 			<Toolbar>
